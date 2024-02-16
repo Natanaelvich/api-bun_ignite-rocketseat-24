@@ -15,6 +15,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "elysia": "^0.8.17",
     "zod": "^3.22.4"
   }
 }
