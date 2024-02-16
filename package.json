@@ -1,0 +1,11 @@
+{
+  "name": "api-bun_ignite-rocketseat-24",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
