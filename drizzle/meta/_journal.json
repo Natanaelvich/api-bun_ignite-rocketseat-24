@@ -8,6 +8,13 @@
       "when": 1708206184166,
       "tag": "0000_colossal_runaways",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1708206351117,
+      "tag": "0001_tricky_dragon_man",
+      "breakpoints": true
     }
   ]
 }
