@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1708206184166,
+      "tag": "0000_colossal_runaways",
+      "breakpoints": true
+    }
+  ]
+}
