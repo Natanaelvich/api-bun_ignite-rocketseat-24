@@ -15,6 +15,13 @@
       "when": 1708206351117,
       "tag": "0001_tricky_dragon_man",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1708342498255,
+      "tag": "0002_normal_romulus",
+      "breakpoints": true
     }
   ]
 }
