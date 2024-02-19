@@ -8,7 +8,8 @@
     "lint": "eslint --fix src --ext ts",
     "studio": "drizzle-kit studio",
     "generate": "drizzle-kit generate:pg",
-    "migrate": "bun ./src/db/migrate.ts"
+    "migrate": "bun ./src/db/migrate.ts",
+    "seed": "bun ./src/db/seed.ts"
   },
   "devDependencies": {
     "@faker-js/faker": "^8.4.1",
