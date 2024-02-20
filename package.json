@@ -12,6 +12,8 @@
     "seed": "bun ./src/db/seed.ts"
   },
   "devDependencies": {
+    "@elysiajs/cookie": "^0.8.0",
+    "@elysiajs/jwt": "^0.8.0",
     "@faker-js/faker": "^8.4.1",
     "@rocketseat/eslint-config": "^2.2.2",
     "@types/bun": "latest",
