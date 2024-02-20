@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "@paralleldrive/cuid2": "^2.2.2",
+    "dayjs": "^1.11.10",
     "drizzle-orm": "^0.29.3",
     "elysia": "^0.8.17",
     "nodemailer": "^6.9.9",
