@@ -15,6 +15,7 @@
     "@faker-js/faker": "^8.4.1",
     "@rocketseat/eslint-config": "^2.2.2",
     "@types/bun": "latest",
+    "@types/nodemailer": "^6.4.14",
     "drizzle-kit": "^0.20.14",
     "eslint-plugin-drizzle": "^0.2.3",
     "pg": "^8.11.3"
@@ -26,6 +27,7 @@
     "@paralleldrive/cuid2": "^2.2.2",
     "drizzle-orm": "^0.29.3",
     "elysia": "^0.8.17",
+    "nodemailer": "^6.9.9",
     "postgres": "^3.4.3",
     "zod": "^3.22.4"
   }
