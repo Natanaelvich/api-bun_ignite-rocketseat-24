@@ -35,3 +35,5 @@ export const registerRestaurante = new Elysia().post(
     }),
   },
 )
+
+// curl -X POST -H "Content-Type: application/json" -d '{"restaurantName": "Burguer King", "managerName": "John Doe", "phone": "123456789", "email": "test@test.com"}' http://localhost:3333/restaurantes
