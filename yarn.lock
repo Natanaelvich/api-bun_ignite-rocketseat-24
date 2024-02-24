@@ -982,6 +982,11 @@ drizzle-orm@^0.29.3:
   resolved "https://registry.yarnpkg.com/drizzle-orm/-/drizzle-orm-0.29.3.tgz#a9b9beb235bbdf9100e62432390cadbee95345cf"
   integrity sha512-uSE027csliGSGYD0pqtM+SAQATMREb3eSM/U8s6r+Y0RFwTKwftnwwSkqx3oS65UBgqDOM0gMTl5UGNpt6lW0A==
 
+drizzle-typebox@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/drizzle-typebox/-/drizzle-typebox-0.1.1.tgz#053d06988e183736ebd7b31bdb43d55f1db506d9"
+  integrity sha512-eNIDe+EOCB96/bbRHOPbrC+bsuCXFd2H0/96Fl0cJkY+NKnu2qLTnGI6ILXPbyu82Yr1tsShlzDypw+VeCDqaQ==
+
 elysia@^0.8.17:
   version "0.8.17"
   resolved "https://registry.yarnpkg.com/elysia/-/elysia-0.8.17.tgz#53aaa57d4407650e4016c3de33983dc387ec6b80"
